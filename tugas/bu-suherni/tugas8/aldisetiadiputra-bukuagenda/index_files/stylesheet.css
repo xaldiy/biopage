@@ -399,3 +399,7 @@ td
 	{mso-style-parent:style0;
 	text-align:center;
 	vertical-align:middle;}
+@font-face {
+            font-family: 'Algerian';
+            src: url('AlgerianRegular.ttf') format('truetype');
+        }
